@@ -1,0 +1,78 @@
+2019-02-27 15:20:39,267-root-INFO-你选择了Chrome游览器.
+2019-02-27 15:20:39,267-root-INFO-你选择了Chrome游览器.
+2019-02-27 15:20:39,268-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-27 15:20:39,268-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-27 15:20:44,971-root-INFO-启动谷歌游览器
+2019-02-27 15:20:44,971-root-INFO-启动谷歌游览器
+2019-02-27 15:20:46,620-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 15:20:46,620-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 15:20:47,776-root-INFO-窗口最大化
+2019-02-27 15:20:47,776-root-INFO-窗口最大化
+2019-02-27 15:20:47,784-root-INFO-等待10秒
+2019-02-27 15:20:47,784-root-INFO-等待10秒
+2019-02-27 15:20:48,171-root-INFO-send_keyadmin
+2019-02-27 15:20:48,171-root-INFO-send_keyadmin
+2019-02-27 15:20:48,449-root-INFO-send_key123321
+2019-02-27 15:20:48,449-root-INFO-send_key123321
+2019-02-27 15:20:48,643-root-INFO-click
+2019-02-27 15:20:48,643-root-INFO-click
+2019-02-27 15:20:51,438-root-INFO-click
+2019-02-27 15:20:51,438-root-INFO-click
+2019-02-27 15:20:52,155-root-INFO-click
+2019-02-27 15:20:52,155-root-INFO-click
+2019-02-27 15:21:03,845-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000034005F8> page not found element('name', 'admin_password')元素
+2019-02-27 15:21:03,845-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000034005F8> page not found element('name', 'admin_password')元素
+2019-02-27 15:21:03,846-root-INFO-not send_keys
+2019-02-27 15:21:03,846-root-INFO-not send_keys
+2019-02-27 15:21:14,410-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000034005F8> page not found element('css selector', '.loginnofloat')元素
+2019-02-27 15:21:14,410-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000034005F8> page not found element('css selector', '.loginnofloat')元素
+2019-02-27 15:21:14,411-root-INFO-not click
+2019-02-27 15:21:14,411-root-INFO-not click
+2019-02-27 15:21:15,334-root-INFO-click
+2019-02-27 15:21:15,334-root-INFO-click
+2019-02-27 15:21:16,848-root-INFO-click
+2019-02-27 15:21:16,848-root-INFO-click
+2019-02-27 15:21:27,380-root-INFO-<pageobjects.new_plate.New_plate object at 0x00000000033E6FD0> page not found element('css selector', '.fixsel btn')元素
+2019-02-27 15:21:27,380-root-INFO-<pageobjects.new_plate.New_plate object at 0x00000000033E6FD0> page not found element('css selector', '.fixsel btn')元素
+2019-02-27 15:21:27,381-root-INFO-not click
+2019-02-27 15:21:27,381-root-INFO-not click
+2019-02-27 18:20:47,199-root-INFO-你选择了Chrome游览器.
+2019-02-27 18:20:47,199-root-INFO-你选择了Chrome游览器.
+2019-02-27 18:20:47,201-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-27 18:20:47,201-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-27 18:20:53,057-root-INFO-启动谷歌游览器
+2019-02-27 18:20:53,057-root-INFO-启动谷歌游览器
+2019-02-27 18:20:55,308-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 18:20:55,308-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 18:20:56,491-root-INFO-窗口最大化
+2019-02-27 18:20:56,491-root-INFO-窗口最大化
+2019-02-27 18:20:56,513-root-INFO-等待10秒
+2019-02-27 18:20:56,513-root-INFO-等待10秒
+2019-02-27 18:20:56,953-root-INFO-send_keyaaa
+2019-02-27 18:20:56,953-root-INFO-send_keyaaa
+2019-02-27 18:20:57,443-root-INFO-send_key123321
+2019-02-27 18:20:57,443-root-INFO-send_key123321
+2019-02-27 18:20:57,792-root-INFO-click
+2019-02-27 18:20:57,792-root-INFO-click
+2019-02-27 18:21:00,030-root-INFO-click
+2019-02-27 18:21:00,030-root-INFO-click
+2019-02-27 18:21:00,871-root-INFO-click
+2019-02-27 18:21:00,871-root-INFO-click
+2019-02-27 18:21:01,633-root-INFO-click
+2019-02-27 18:21:01,633-root-INFO-click
+2019-02-27 18:21:01,963-root-INFO-send_key应该去吗？
+2019-02-27 18:21:01,963-root-INFO-send_key应该去吗？
+2019-02-27 18:21:02,242-root-INFO-send_key同意
+2019-02-27 18:21:02,242-root-INFO-send_key同意
+2019-02-27 18:21:02,501-root-INFO-send_key不同意
+2019-02-27 18:21:02,501-root-INFO-send_key不同意
+2019-02-27 18:21:02,745-root-INFO-send_key中立
+2019-02-27 18:21:02,745-root-INFO-send_key中立
+2019-02-27 18:21:03,023-root-INFO-click
+2019-02-27 18:21:03,023-root-INFO-click
+2019-02-27 18:21:13,642-root-INFO-<pageobjects.vote_on.Voteon object at 0x0000000003406BE0> page not found element('xpath', "//td[@class='pslt[1]']/input[3]")元素
+2019-02-27 18:21:13,642-root-INFO-<pageobjects.vote_on.Voteon object at 0x0000000003406BE0> page not found element('xpath', "//td[@class='pslt[1]']/input[3]")元素
+2019-02-27 18:21:13,643-root-INFO-not click
+2019-02-27 18:21:13,643-root-INFO-not click
+2019-02-27 18:21:14,224-root-INFO-click
+2019-02-27 18:21:14,224-root-INFO-click

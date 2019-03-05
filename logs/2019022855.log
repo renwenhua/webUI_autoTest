@@ -1,0 +1,50 @@
+2019-02-28 19:55:35,325-root-INFO-你选择了Chrome游览器.
+2019-02-28 19:55:35,325-root-INFO-你选择了Chrome游览器.
+2019-02-28 19:55:35,326-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 19:55:35,326-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 19:55:41,410-root-INFO-启动谷歌游览器
+2019-02-28 19:55:41,410-root-INFO-启动谷歌游览器
+2019-02-28 19:55:44,250-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 19:55:44,250-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 19:55:45,524-root-INFO-窗口最大化
+2019-02-28 19:55:45,524-root-INFO-窗口最大化
+2019-02-28 19:55:45,533-root-INFO-等待10秒
+2019-02-28 19:55:45,533-root-INFO-等待10秒
+2019-02-28 19:55:45,949-root-INFO-send_keyadmin
+2019-02-28 19:55:45,949-root-INFO-send_keyadmin
+2019-02-28 19:55:46,376-root-INFO-send_key123321
+2019-02-28 19:55:46,376-root-INFO-send_key123321
+2019-02-28 19:55:46,692-root-INFO-click
+2019-02-28 19:55:46,692-root-INFO-click
+2019-02-28 19:55:51,062-root-INFO-click
+2019-02-28 19:55:51,062-root-INFO-click
+2019-02-28 19:55:51,697-root-INFO-click
+2019-02-28 19:55:51,697-root-INFO-click
+2019-02-28 19:55:52,565-root-INFO-click
+2019-02-28 19:55:52,565-root-INFO-click
+2019-02-28 19:55:54,382-root-INFO-click
+2019-02-28 19:55:54,382-root-INFO-click
+2019-02-28 19:55:56,392-root-INFO-click
+2019-02-28 19:55:56,392-root-INFO-click
+2019-02-28 19:56:08,362-root-ERROR-<pageobjects.plate_management.Manage object at 0x00000000033F5D68> page not found element('name', 'admin_password')元素
+2019-02-28 19:56:08,362-root-ERROR-<pageobjects.plate_management.Manage object at 0x00000000033F5D68> page not found element('name', 'admin_password')元素
+2019-02-28 19:56:08,363-root-ERROR-not send_keys
+2019-02-28 19:56:08,363-root-ERROR-not send_keys
+2019-02-28 19:56:19,113-root-ERROR-<pageobjects.plate_management.Manage object at 0x00000000033F5D68> page not found element('css selector', '.loginnofloat .btn')元素
+2019-02-28 19:56:19,113-root-ERROR-<pageobjects.plate_management.Manage object at 0x00000000033F5D68> page not found element('css selector', '.loginnofloat .btn')元素
+2019-02-28 19:56:19,114-root-ERROR-not click
+2019-02-28 19:56:19,114-root-ERROR-not click
+2019-02-28 19:56:21,240-root-INFO-click
+2019-02-28 19:56:21,240-root-INFO-click
+2019-02-28 19:56:23,336-root-INFO-click
+2019-02-28 19:56:23,336-root-INFO-click
+2019-02-28 19:56:25,426-root-INFO-click
+2019-02-28 19:56:25,426-root-INFO-click
+2019-02-28 19:56:27,120-root-INFO-click
+2019-02-28 19:56:27,120-root-INFO-click
+2019-02-28 19:56:30,497-root-INFO-send_keyaaa
+2019-02-28 19:56:30,497-root-INFO-send_keyaaa
+2019-02-28 19:56:31,158-root-INFO-send_key123321
+2019-02-28 19:56:31,158-root-INFO-send_key123321
+2019-02-28 19:56:31,679-root-INFO-click
+2019-02-28 19:56:31,679-root-INFO-click

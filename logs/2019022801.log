@@ -1,0 +1,100 @@
+2019-02-28 10:01:41,837-root-INFO-你选择了Chrome游览器.
+2019-02-28 10:01:41,837-root-INFO-你选择了Chrome游览器.
+2019-02-28 10:01:41,838-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 10:01:41,838-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 10:01:48,077-root-INFO-启动谷歌游览器
+2019-02-28 10:01:48,077-root-INFO-启动谷歌游览器
+2019-02-28 10:01:49,377-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 10:01:49,377-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 10:01:50,569-root-INFO-窗口最大化
+2019-02-28 10:01:50,569-root-INFO-窗口最大化
+2019-02-28 10:01:50,602-root-INFO-等待10秒
+2019-02-28 10:01:50,602-root-INFO-等待10秒
+2019-02-28 10:01:51,357-root-INFO-send_keyadmin
+2019-02-28 10:01:51,357-root-INFO-send_keyadmin
+2019-02-28 10:01:52,010-root-INFO-send_key123321
+2019-02-28 10:01:52,010-root-INFO-send_key123321
+2019-02-28 10:01:52,463-root-INFO-click
+2019-02-28 10:01:52,463-root-INFO-click
+2019-02-28 10:01:55,982-root-INFO-click
+2019-02-28 10:01:55,982-root-INFO-click
+2019-02-28 10:01:57,123-root-INFO-click
+2019-02-28 10:01:57,123-root-INFO-click
+2019-02-28 10:01:58,448-root-INFO-click
+2019-02-28 10:01:58,448-root-INFO-click
+2019-02-28 10:02:00,412-root-INFO-click
+2019-02-28 10:02:00,412-root-INFO-click
+2019-02-28 10:02:01,399-root-INFO-click
+2019-02-28 10:02:01,399-root-INFO-click
+2019-02-28 10:02:13,121-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000033F1668> page not found element('name', 'admin_password')元素
+2019-02-28 10:02:13,121-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000033F1668> page not found element('name', 'admin_password')元素
+2019-02-28 10:02:13,122-root-INFO-not send_keys
+2019-02-28 10:02:13,122-root-INFO-not send_keys
+2019-02-28 10:02:23,652-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000033F1668> page not found element('css selector', '.loginnofloat .btn')元素
+2019-02-28 10:02:23,652-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000033F1668> page not found element('css selector', '.loginnofloat .btn')元素
+2019-02-28 10:02:23,653-root-INFO-not click
+2019-02-28 10:02:23,653-root-INFO-not click
+2019-02-28 10:02:24,427-root-INFO-click
+2019-02-28 10:02:24,427-root-INFO-click
+2019-02-28 10:02:26,099-root-INFO-click
+2019-02-28 10:02:26,099-root-INFO-click
+2019-02-28 10:02:27,709-root-INFO-click
+2019-02-28 10:02:27,709-root-INFO-click
+2019-02-28 10:02:29,022-root-INFO-click
+2019-02-28 10:02:29,022-root-INFO-click
+2019-02-28 10:02:32,640-root-INFO-send_keyaaa
+2019-02-28 10:02:32,640-root-INFO-send_keyaaa
+2019-02-28 10:02:33,120-root-INFO-send_key123321
+2019-02-28 10:02:33,120-root-INFO-send_key123321
+2019-02-28 10:02:33,633-root-INFO-click
+2019-02-28 10:02:33,633-root-INFO-click
+2019-02-28 10:02:44,236-root-INFO-<pageobjects.post.Post object at 0x000000000340ADD8> page not found element('css selector', '.fl_icn a')元素
+2019-02-28 10:02:44,236-root-INFO-<pageobjects.post.Post object at 0x000000000340ADD8> page not found element('css selector', '.fl_icn a')元素
+2019-02-28 10:02:44,237-root-INFO-not click
+2019-02-28 10:02:44,237-root-INFO-not click
+2019-02-28 10:02:45,219-root-INFO-<pageobjects.post.Post object at 0x000000000340ADD8> page not found element('css selector', '#subject')元素
+2019-02-28 10:02:45,219-root-INFO-<pageobjects.post.Post object at 0x000000000340ADD8> page not found element('css selector', '#subject')元素
+2019-02-28 10:02:45,220-root-INFO-not send_keys
+2019-02-28 10:02:45,220-root-INFO-not send_keys
+2019-02-28 10:02:45,247-root-INFO-<pageobjects.post.Post object at 0x000000000340ADD8> page not found element('css selector', '#fastpostmessage')元素
+2019-02-28 10:02:45,247-root-INFO-<pageobjects.post.Post object at 0x000000000340ADD8> page not found element('css selector', '#fastpostmessage')元素
+2019-02-28 10:02:45,248-root-INFO-not send_keys
+2019-02-28 10:02:45,248-root-INFO-not send_keys
+2019-02-28 10:02:45,276-root-INFO-<pageobjects.post.Post object at 0x000000000340ADD8> page not found element('css selector', '#fastpostsubmit')元素
+2019-02-28 10:02:45,276-root-INFO-<pageobjects.post.Post object at 0x000000000340ADD8> page not found element('css selector', '#fastpostsubmit')元素
+2019-02-28 10:02:45,277-root-INFO-not click
+2019-02-28 10:02:45,277-root-INFO-not click
+2019-02-28 18:01:34,412-root-INFO-你选择了Chrome游览器.
+2019-02-28 18:01:34,412-root-INFO-你选择了Chrome游览器.
+2019-02-28 18:01:34,413-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 18:01:34,413-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 18:01:40,872-root-INFO-启动谷歌游览器
+2019-02-28 18:01:40,872-root-INFO-启动谷歌游览器
+2019-02-28 18:01:47,305-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 18:01:47,305-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 18:01:48,571-root-INFO-窗口最大化
+2019-02-28 18:01:48,571-root-INFO-窗口最大化
+2019-02-28 18:01:48,590-root-INFO-等待10秒
+2019-02-28 18:01:48,590-root-INFO-等待10秒
+2019-02-28 18:01:49,401-root-INFO-send_keyadmin
+2019-02-28 18:01:49,401-root-INFO-send_keyadmin
+2019-02-28 18:01:50,252-root-INFO-send_key123321
+2019-02-28 18:01:50,252-root-INFO-send_key123321
+2019-02-28 18:01:50,830-root-INFO-click
+2019-02-28 18:01:50,830-root-INFO-click
+2019-02-28 18:01:55,659-root-INFO-click
+2019-02-28 18:01:55,659-root-INFO-click
+2019-02-28 18:01:56,191-root-INFO-send_key标题
+2019-02-28 18:01:56,191-root-INFO-send_key标题
+2019-02-28 18:01:57,099-root-INFO-send_keyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2019-02-28 18:01:57,099-root-INFO-send_keyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2019-02-28 18:01:59,040-root-INFO-click
+2019-02-28 18:01:59,040-root-INFO-click
+2019-02-28 18:01:59,710-root-INFO-get_windows_img
+2019-02-28 18:01:59,710-root-INFO-get_windows_img
+2019-02-28 18:02:00,329-root-INFO-click
+2019-02-28 18:02:00,329-root-INFO-click
+2019-02-28 18:02:01,817-root-INFO-send_keycdrhgkt3uygu5bgefrl
+2019-02-28 18:02:01,817-root-INFO-send_keycdrhgkt3uygu5bgefrl
+2019-02-28 18:02:03,431-root-INFO-click
+2019-02-28 18:02:03,431-root-INFO-click

@@ -1,0 +1,92 @@
+2019-02-28 09:58:08,066-root-INFO-你选择了Chrome游览器.
+2019-02-28 09:58:08,066-root-INFO-你选择了Chrome游览器.
+2019-02-28 09:58:08,067-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 09:58:08,067-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 09:58:15,387-root-INFO-启动谷歌游览器
+2019-02-28 09:58:15,387-root-INFO-启动谷歌游览器
+2019-02-28 09:58:17,123-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 09:58:17,123-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 09:58:18,403-root-INFO-窗口最大化
+2019-02-28 09:58:18,403-root-INFO-窗口最大化
+2019-02-28 09:58:18,410-root-INFO-等待10秒
+2019-02-28 09:58:18,410-root-INFO-等待10秒
+2019-02-28 09:58:19,028-root-INFO-send_keyadmin
+2019-02-28 09:58:19,028-root-INFO-send_keyadmin
+2019-02-28 09:58:19,525-root-INFO-send_key123321
+2019-02-28 09:58:19,525-root-INFO-send_key123321
+2019-02-28 09:58:19,936-root-INFO-click
+2019-02-28 09:58:19,936-root-INFO-click
+2019-02-28 09:58:30,477-root-INFO-<pageobjects.post.Post object at 0x00000000034329B0> page not found element('partial link text', '默认模板')元素
+2019-02-28 09:58:30,477-root-INFO-<pageobjects.post.Post object at 0x00000000034329B0> page not found element('partial link text', '默认模板')元素
+2019-02-28 09:58:30,478-root-INFO-not click
+2019-02-28 09:58:30,478-root-INFO-not click
+2019-02-28 09:58:41,023-root-INFO-<pageobjects.delete.Delete object at 0x000000000346D550> page not found element('css selector', '#threadlisttableid tbody:last-of-type .o')元素
+2019-02-28 09:58:41,023-root-INFO-<pageobjects.delete.Delete object at 0x000000000346D550> page not found element('css selector', '#threadlisttableid tbody:last-of-type .o')元素
+2019-02-28 09:58:41,024-root-INFO-not click
+2019-02-28 09:58:41,024-root-INFO-not click
+2019-02-28 09:58:43,036-root-INFO-<pageobjects.delete.Delete object at 0x000000000346D550> page not found element('partial link text', '删除')元素
+2019-02-28 09:58:43,036-root-INFO-<pageobjects.delete.Delete object at 0x000000000346D550> page not found element('partial link text', '删除')元素
+2019-02-28 09:58:43,037-root-INFO-not click
+2019-02-28 09:58:43,037-root-INFO-not click
+2019-02-28 09:58:43,112-root-INFO-<pageobjects.delete.Delete object at 0x000000000346D550> page not found element('css selector', 'table #moderateform #modsubmit')元素
+2019-02-28 09:58:43,112-root-INFO-<pageobjects.delete.Delete object at 0x000000000346D550> page not found element('css selector', 'table #moderateform #modsubmit')元素
+2019-02-28 09:58:43,113-root-INFO-not click
+2019-02-28 09:58:43,113-root-INFO-not click
+2019-02-28 09:58:43,123-root-INFO-<pageobjects.plate_management.Manage object at 0x000000000346D668> page not found element('partial link text', '管理中心')元素
+2019-02-28 09:58:43,123-root-INFO-<pageobjects.plate_management.Manage object at 0x000000000346D668> page not found element('partial link text', '管理中心')元素
+2019-02-28 09:58:43,124-root-INFO-not click
+2019-02-28 09:58:43,124-root-INFO-not click
+2019-02-28 19:58:40,200-root-INFO-你选择了Chrome游览器.
+2019-02-28 19:58:40,200-root-INFO-你选择了Chrome游览器.
+2019-02-28 19:58:40,203-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 19:58:40,203-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 19:58:46,928-root-INFO-启动谷歌游览器
+2019-02-28 19:58:46,928-root-INFO-启动谷歌游览器
+2019-02-28 19:58:49,473-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 19:58:49,473-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 19:58:50,749-root-INFO-窗口最大化
+2019-02-28 19:58:50,749-root-INFO-窗口最大化
+2019-02-28 19:58:50,763-root-INFO-等待10秒
+2019-02-28 19:58:50,763-root-INFO-等待10秒
+2019-02-28 19:58:51,605-root-INFO-send_keyadmin
+2019-02-28 19:58:51,605-root-INFO-send_keyadmin
+2019-02-28 19:58:52,212-root-INFO-send_key123321
+2019-02-28 19:58:52,212-root-INFO-send_key123321
+2019-02-28 19:58:52,709-root-INFO-click
+2019-02-28 19:58:52,709-root-INFO-click
+2019-02-28 19:58:56,221-root-INFO-click
+2019-02-28 19:58:56,221-root-INFO-click
+2019-02-28 19:58:56,708-root-INFO-click
+2019-02-28 19:58:56,708-root-INFO-click
+2019-02-28 19:58:57,419-root-INFO-click
+2019-02-28 19:58:57,419-root-INFO-click
+2019-02-28 19:58:58,289-root-INFO-click
+2019-02-28 19:58:58,289-root-INFO-click
+2019-02-28 19:58:58,632-root-INFO-click
+2019-02-28 19:58:58,632-root-INFO-click
+2019-02-28 19:59:10,247-root-ERROR-<pageobjects.plate_management.Manage object at 0x0000000003405FD0> page not found element('name', 'admin_password')元素
+2019-02-28 19:59:10,247-root-ERROR-<pageobjects.plate_management.Manage object at 0x0000000003405FD0> page not found element('name', 'admin_password')元素
+2019-02-28 19:59:10,248-root-ERROR-not send_keys
+2019-02-28 19:59:10,248-root-ERROR-not send_keys
+2019-02-28 19:59:20,779-root-ERROR-<pageobjects.plate_management.Manage object at 0x0000000003405FD0> page not found element('css selector', '.loginnofloat .btn')元素
+2019-02-28 19:59:20,779-root-ERROR-<pageobjects.plate_management.Manage object at 0x0000000003405FD0> page not found element('css selector', '.loginnofloat .btn')元素
+2019-02-28 19:59:20,780-root-ERROR-not click
+2019-02-28 19:59:20,780-root-ERROR-not click
+2019-02-28 19:59:22,042-root-INFO-click
+2019-02-28 19:59:22,042-root-INFO-click
+2019-02-28 19:59:22,976-root-INFO-click
+2019-02-28 19:59:22,976-root-INFO-click
+2019-02-28 19:59:24,222-root-INFO-click
+2019-02-28 19:59:24,222-root-INFO-click
+2019-02-28 19:59:25,950-root-INFO-click
+2019-02-28 19:59:25,950-root-INFO-click
+2019-02-28 19:59:29,545-root-INFO-send_keyaaa
+2019-02-28 19:59:29,545-root-INFO-send_keyaaa
+2019-02-28 19:59:30,274-root-INFO-send_key123321
+2019-02-28 19:59:30,274-root-INFO-send_key123321
+2019-02-28 19:59:31,036-root-INFO-click
+2019-02-28 19:59:31,036-root-INFO-click
+2019-02-28 19:59:33,014-root-INFO-send_key标题2
+2019-02-28 19:59:33,014-root-INFO-send_key标题2
+2019-02-28 19:59:33,568-root-INFO-send_keyssssssssss
+2019-02-28 19:59:33,568-root-INFO-send_keyssssssssss

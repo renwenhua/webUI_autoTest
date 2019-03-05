@@ -1,0 +1,120 @@
+2019-02-28 10:06:28,312-root-INFO-你选择了Chrome游览器.
+2019-02-28 10:06:28,312-root-INFO-你选择了Chrome游览器.
+2019-02-28 10:06:28,313-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 10:06:28,313-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 10:06:34,600-root-INFO-启动谷歌游览器
+2019-02-28 10:06:34,600-root-INFO-启动谷歌游览器
+2019-02-28 10:06:36,670-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 10:06:36,670-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 10:06:37,892-root-INFO-窗口最大化
+2019-02-28 10:06:37,892-root-INFO-窗口最大化
+2019-02-28 10:06:37,905-root-INFO-等待10秒
+2019-02-28 10:06:37,905-root-INFO-等待10秒
+2019-02-28 10:06:38,604-root-INFO-send_keyadmin
+2019-02-28 10:06:38,604-root-INFO-send_keyadmin
+2019-02-28 10:06:39,215-root-INFO-send_key123321
+2019-02-28 10:06:39,215-root-INFO-send_key123321
+2019-02-28 10:06:39,669-root-INFO-click
+2019-02-28 10:06:39,669-root-INFO-click
+2019-02-28 10:06:45,019-root-INFO-click
+2019-02-28 10:06:45,019-root-INFO-click
+2019-02-28 10:06:45,359-root-INFO-click
+2019-02-28 10:06:45,359-root-INFO-click
+2019-02-28 10:06:46,470-root-INFO-click
+2019-02-28 10:06:46,470-root-INFO-click
+2019-02-28 10:06:47,773-root-INFO-click
+2019-02-28 10:06:47,773-root-INFO-click
+2019-02-28 10:06:48,617-root-INFO-click
+2019-02-28 10:06:48,617-root-INFO-click
+2019-02-28 10:07:00,336-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000033E26D8> page not found element('name', 'admin_password')元素
+2019-02-28 10:07:00,336-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000033E26D8> page not found element('name', 'admin_password')元素
+2019-02-28 10:07:00,336-root-INFO-not send_keys
+2019-02-28 10:07:00,336-root-INFO-not send_keys
+2019-02-28 10:07:10,917-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000033E26D8> page not found element('css selector', '.loginnofloat .btn')元素
+2019-02-28 10:07:10,917-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000033E26D8> page not found element('css selector', '.loginnofloat .btn')元素
+2019-02-28 10:07:10,918-root-INFO-not click
+2019-02-28 10:07:10,918-root-INFO-not click
+2019-02-28 10:07:11,638-root-INFO-click
+2019-02-28 10:07:11,638-root-INFO-click
+2019-02-28 10:07:13,396-root-INFO-click
+2019-02-28 10:07:13,396-root-INFO-click
+2019-02-28 10:07:14,628-root-INFO-click
+2019-02-28 10:07:14,628-root-INFO-click
+2019-02-28 10:07:16,105-root-INFO-click
+2019-02-28 10:07:16,105-root-INFO-click
+2019-02-28 10:07:19,637-root-INFO-send_keyaaa
+2019-02-28 10:07:19,637-root-INFO-send_keyaaa
+2019-02-28 10:07:20,138-root-INFO-send_key123321
+2019-02-28 10:07:20,138-root-INFO-send_key123321
+2019-02-28 10:07:20,483-root-INFO-click
+2019-02-28 10:07:20,483-root-INFO-click
+2019-02-28 10:07:31,073-root-INFO-<pageobjects.post.Post object at 0x0000000003405B00> page not found element('css selector', '.fl_icn a')元素
+2019-02-28 10:07:31,073-root-INFO-<pageobjects.post.Post object at 0x0000000003405B00> page not found element('css selector', '.fl_icn a')元素
+2019-02-28 10:07:31,074-root-INFO-not click
+2019-02-28 10:07:31,074-root-INFO-not click
+2019-02-28 10:07:31,703-root-INFO-send_key标题2
+2019-02-28 10:07:31,703-root-INFO-send_key标题2
+2019-02-28 10:07:32,417-root-INFO-send_keyssssssssss
+2019-02-28 10:07:32,417-root-INFO-send_keyssssssssss
+2019-02-28 10:07:34,978-root-INFO-click
+2019-02-28 10:07:34,978-root-INFO-click
+2019-02-28 10:07:35,492-root-INFO-get_windows_img
+2019-02-28 10:07:35,492-root-INFO-get_windows_img
+2019-02-28 10:07:35,852-root-INFO-click
+2019-02-28 10:07:35,852-root-INFO-click
+2019-02-28 10:07:37,072-root-INFO-send_keyZZZZZZZZZZZZZ
+2019-02-28 10:07:37,072-root-INFO-send_keyZZZZZZZZZZZZZ
+2019-02-28 10:07:38,180-root-INFO-click
+2019-02-28 10:07:38,180-root-INFO-click
+2019-02-28 20:06:18,735-root-INFO-你选择了Chrome游览器.
+2019-02-28 20:06:18,735-root-INFO-你选择了Chrome游览器.
+2019-02-28 20:06:18,736-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 20:06:18,736-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 20:06:24,558-root-INFO-启动谷歌游览器
+2019-02-28 20:06:24,558-root-INFO-启动谷歌游览器
+2019-02-28 20:06:26,245-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 20:06:26,245-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 20:06:27,504-root-INFO-窗口最大化
+2019-02-28 20:06:27,504-root-INFO-窗口最大化
+2019-02-28 20:06:27,515-root-INFO-等待10秒
+2019-02-28 20:06:27,515-root-INFO-等待10秒
+2019-02-28 20:06:28,113-root-INFO-send_keyaaa
+2019-02-28 20:06:28,113-root-INFO-send_keyaaa
+2019-02-28 20:06:28,773-root-INFO-send_key123321
+2019-02-28 20:06:28,773-root-INFO-send_key123321
+2019-02-28 20:06:29,317-root-INFO-click
+2019-02-28 20:06:29,317-root-INFO-click
+2019-02-28 20:06:31,088-root-INFO-send_keyhaotest
+2019-02-28 20:06:31,088-root-INFO-send_keyhaotest
+2019-02-28 20:06:31,460-root-INFO-click
+2019-02-28 20:06:31,460-root-INFO-click
+2019-02-28 20:06:33,387-root-INFO-click
+2019-02-28 20:06:33,387-root-INFO-click
+2019-02-28 20:06:36,559-root-INFO-click
+2019-02-28 20:06:36,559-root-INFO-click
+2019-02-28 20:06:57,748-root-INFO-你选择了Chrome游览器.
+2019-02-28 20:06:57,748-root-INFO-你选择了Chrome游览器.
+2019-02-28 20:06:57,749-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 20:06:57,749-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 20:07:02,877-root-INFO-启动谷歌游览器
+2019-02-28 20:07:02,877-root-INFO-启动谷歌游览器
+2019-02-28 20:07:04,883-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 20:07:04,883-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 20:07:06,188-root-INFO-窗口最大化
+2019-02-28 20:07:06,188-root-INFO-窗口最大化
+2019-02-28 20:07:06,199-root-INFO-等待10秒
+2019-02-28 20:07:06,199-root-INFO-等待10秒
+2019-02-28 20:07:07,054-root-INFO-send_keyaaa
+2019-02-28 20:07:07,054-root-INFO-send_keyaaa
+2019-02-28 20:07:08,053-root-INFO-send_key123321
+2019-02-28 20:07:08,053-root-INFO-send_key123321
+2019-02-28 20:07:08,689-root-INFO-click
+2019-02-28 20:07:08,689-root-INFO-click
+2019-02-28 20:07:11,402-root-INFO-send_keyhaotest
+2019-02-28 20:07:11,402-root-INFO-send_keyhaotest
+2019-02-28 20:07:12,195-root-INFO-click
+2019-02-28 20:07:12,195-root-INFO-click
+2019-02-28 20:07:14,051-root-INFO-click
+2019-02-28 20:07:14,051-root-INFO-click
+2019-02-28 20:07:16,548-root-INFO-click
+2019-02-28 20:07:16,548-root-INFO-click

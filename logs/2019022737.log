@@ -1,0 +1,346 @@
+2019-02-27 14:37:54,379-root-INFO-你选择了Chrome游览器.
+2019-02-27 14:37:54,379-root-INFO-你选择了Chrome游览器.
+2019-02-27 14:37:54,380-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-27 14:37:54,380-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-27 14:37:55,561-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2019-02-27 14:37:55,561-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2019-02-27 14:37:55,564-urllib3.connectionpool-DEBUG-Starting new HTTP connection (1): 127.0.0.1:22890
+2019-02-27 14:37:55,564-urllib3.connectionpool-DEBUG-Starting new HTTP connection (1): 127.0.0.1:22890
+2019-02-27 14:37:59,923-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session HTTP/1.1" 200 889
+2019-02-27 14:37:59,923-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session HTTP/1.1" 200 889
+2019-02-27 14:37:59,924-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:37:59,924-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:37:59,925-root-INFO-启动谷歌游览器
+2019-02-27 14:37:59,925-root-INFO-启动谷歌游览器
+2019-02-27 14:37:59,925-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/url {"url": "http://127.0.0.1/forum.php", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:37:59,925-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/url {"url": "http://127.0.0.1/forum.php", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:02,579-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/url HTTP/1.1" 200 72
+2019-02-27 14:38:02,579-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/url HTTP/1.1" 200 72
+2019-02-27 14:38:02,581-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:02,581-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:02,582-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 14:38:02,582-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 14:38:02,583-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/window/current/maximize {"windowHandle": "current", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:02,583-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/window/current/maximize {"windowHandle": "current", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:03,837-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/window/current/maximize HTTP/1.1" 200 72
+2019-02-27 14:38:03,837-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/window/current/maximize HTTP/1.1" 200 72
+2019-02-27 14:38:03,839-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:03,839-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:03,840-root-INFO-窗口最大化
+2019-02-27 14:38:03,840-root-INFO-窗口最大化
+2019-02-27 14:38:03,840-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/timeouts/implicit_wait {"ms": 10000.0, "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:03,840-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/timeouts/implicit_wait {"ms": 10000.0, "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:03,858-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/timeouts/implicit_wait HTTP/1.1" 200 72
+2019-02-27 14:38:03,858-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/timeouts/implicit_wait HTTP/1.1" 200 72
+2019-02-27 14:38:03,860-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:03,860-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:03,861-root-INFO-等待10秒
+2019-02-27 14:38:03,861-root-INFO-等待10秒
+2019-02-27 14:38:03,862-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "name", "value": "username", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:03,862-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "name", "value": "username", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,047-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 104
+2019-02-27 14:38:04,047-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 104
+2019-02-27 14:38:04,048-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,048-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,049-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-1/displayed {"id": "0.7194303267869504-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,049-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-1/displayed {"id": "0.7194303267869504-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,224-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-1/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:04,224-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-1/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:04,226-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,226-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,228-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "name", "value": "username", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,228-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "name", "value": "username", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,368-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 102
+2019-02-27 14:38:04,368-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 102
+2019-02-27 14:38:04,370-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,370-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,370-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-1/clear {"id": "0.7194303267869504-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,370-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-1/clear {"id": "0.7194303267869504-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,467-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-1/clear HTTP/1.1" 200 72
+2019-02-27 14:38:04,467-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-1/clear HTTP/1.1" 200 72
+2019-02-27 14:38:04,469-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,469-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,469-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-1/value {"text": "admin", "value": ["a", "d", "m", "i", "n"], "id": "0.7194303267869504-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,469-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-1/value {"text": "admin", "value": ["a", "d", "m", "i", "n"], "id": "0.7194303267869504-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,697-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-1/value HTTP/1.1" 200 72
+2019-02-27 14:38:04,697-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-1/value HTTP/1.1" 200 72
+2019-02-27 14:38:04,699-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,699-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,700-root-INFO-send_keyadmin
+2019-02-27 14:38:04,700-root-INFO-send_keyadmin
+2019-02-27 14:38:04,701-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "name", "value": "password", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,701-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "name", "value": "password", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,765-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 104
+2019-02-27 14:38:04,765-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 104
+2019-02-27 14:38:04,766-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,766-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,767-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-2/displayed {"id": "0.7194303267869504-2", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,767-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-2/displayed {"id": "0.7194303267869504-2", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,825-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-2/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:04,825-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-2/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:04,826-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,826-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,827-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "name", "value": "password", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,827-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "name", "value": "password", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,890-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 102
+2019-02-27 14:38:04,890-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 102
+2019-02-27 14:38:04,891-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,891-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,892-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-2/clear {"id": "0.7194303267869504-2", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,892-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-2/clear {"id": "0.7194303267869504-2", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,972-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-2/clear HTTP/1.1" 200 72
+2019-02-27 14:38:04,972-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-2/clear HTTP/1.1" 200 72
+2019-02-27 14:38:04,975-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,975-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:04,976-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-2/value {"text": "123321", "value": ["1", "2", "3", "3", "2", "1"], "id": "0.7194303267869504-2", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:04,976-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-2/value {"text": "123321", "value": ["1", "2", "3", "3", "2", "1"], "id": "0.7194303267869504-2", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:05,194-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-2/value HTTP/1.1" 200 72
+2019-02-27 14:38:05,194-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-2/value HTTP/1.1" 200 72
+2019-02-27 14:38:05,195-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:05,195-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:05,196-root-INFO-send_key123321
+2019-02-27 14:38:05,196-root-INFO-send_key123321
+2019-02-27 14:38:05,197-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "css selector", "value": "button em", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:05,197-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "css selector", "value": "button em", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:05,259-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 104
+2019-02-27 14:38:05,259-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 104
+2019-02-27 14:38:05,260-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:05,260-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:05,261-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-3/displayed {"id": "0.7194303267869504-3", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:05,261-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-3/displayed {"id": "0.7194303267869504-3", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:05,316-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-3/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:05,316-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-3/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:05,318-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:05,318-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:05,319-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "css selector", "value": "button em", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:05,319-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "css selector", "value": "button em", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:05,379-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 102
+2019-02-27 14:38:05,379-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 102
+2019-02-27 14:38:05,380-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:05,380-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:05,381-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-3/click {"id": "0.7194303267869504-3", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:05,381-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-3/click {"id": "0.7194303267869504-3", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:05,590-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-3/click HTTP/1.1" 200 72
+2019-02-27 14:38:05,590-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-3/click HTTP/1.1" 200 72
+2019-02-27 14:38:05,592-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:05,592-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:05,594-root-INFO-click
+2019-02-27 14:38:05,594-root-INFO-click
+2019-02-27 14:38:05,595-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "css selector", "value": ".fl_icn a", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:05,595-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "css selector", "value": ".fl_icn a", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:07,069-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 104
+2019-02-27 14:38:07,069-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 104
+2019-02-27 14:38:07,070-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:07,070-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:07,071-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-4/displayed {"id": "0.7194303267869504-4", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:07,071-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-4/displayed {"id": "0.7194303267869504-4", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:07,121-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-4/displayed HTTP/1.1" 200 318
+2019-02-27 14:38:07,121-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.7194303267869504-4/displayed HTTP/1.1" 200 318
+2019-02-27 14:38:07,123-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:07,123-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:07,624-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "css selector", "value": ".fl_icn a", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:07,624-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "css selector", "value": ".fl_icn a", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:07,664-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 105
+2019-02-27 14:38:07,664-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 105
+2019-02-27 14:38:07,665-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:07,665-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:07,666-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.19710047815337517-1/displayed {"id": "0.19710047815337517-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:07,666-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.19710047815337517-1/displayed {"id": "0.19710047815337517-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:07,727-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.19710047815337517-1/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:07,727-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.19710047815337517-1/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:07,728-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:07,728-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:07,729-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "css selector", "value": ".fl_icn a", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:07,729-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "css selector", "value": ".fl_icn a", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:07,789-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 103
+2019-02-27 14:38:07,789-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 103
+2019-02-27 14:38:07,790-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:07,790-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:07,791-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.19710047815337517-1/click {"id": "0.19710047815337517-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:07,791-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.19710047815337517-1/click {"id": "0.19710047815337517-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:08,657-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.19710047815337517-1/click HTTP/1.1" 200 72
+2019-02-27 14:38:08,657-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.19710047815337517-1/click HTTP/1.1" 200 72
+2019-02-27 14:38:08,658-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:08,658-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:08,659-root-INFO-click
+2019-02-27 14:38:08,659-root-INFO-click
+2019-02-27 14:38:08,660-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "partial link text", "value": "\u7ba1\u7406\u4e2d\u5fc3", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:08,660-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "partial link text", "value": "\u7ba1\u7406\u4e2d\u5fc3", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:08,960-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 104
+2019-02-27 14:38:08,960-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 104
+2019-02-27 14:38:08,962-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:08,962-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:08,963-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.5746176197127828-1/displayed {"id": "0.5746176197127828-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:08,963-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.5746176197127828-1/displayed {"id": "0.5746176197127828-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:09,024-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.5746176197127828-1/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:09,024-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.5746176197127828-1/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:09,025-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:09,025-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:09,026-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "partial link text", "value": "\u7ba1\u7406\u4e2d\u5fc3", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:09,026-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "partial link text", "value": "\u7ba1\u7406\u4e2d\u5fc3", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:09,086-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 102
+2019-02-27 14:38:09,086-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 102
+2019-02-27 14:38:09,087-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:09,087-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:09,088-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.5746176197127828-1/click {"id": "0.5746176197127828-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:09,088-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.5746176197127828-1/click {"id": "0.5746176197127828-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:09,268-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.5746176197127828-1/click HTTP/1.1" 200 72
+2019-02-27 14:38:09,268-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.5746176197127828-1/click HTTP/1.1" 200 72
+2019-02-27 14:38:09,269-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:09,269-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:09,269-root-INFO-click
+2019-02-27 14:38:09,269-root-INFO-click
+2019-02-27 14:38:09,270-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/window_handles {"sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:09,270-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/window_handles {"sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:09,282-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/window_handles HTTP/1.1" 200 157
+2019-02-27 14:38:09,282-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/window_handles HTTP/1.1" 200 157
+2019-02-27 14:38:09,283-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:09,283-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:09,284-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/window {"name": "CDwindow-5B3C7B232E1799A7D0BD3E8D52C41596", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:09,284-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/window {"name": "CDwindow-5B3C7B232E1799A7D0BD3E8D52C41596", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:09,321-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/window HTTP/1.1" 200 72
+2019-02-27 14:38:09,321-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/window HTTP/1.1" 200 72
+2019-02-27 14:38:09,322-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:09,322-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:09,322-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "name", "value": "admin_password", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:09,322-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "name", "value": "admin_password", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,426-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 105
+2019-02-27 14:38:10,426-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 105
+2019-02-27 14:38:10,427-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,427-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,428-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-1/displayed {"id": "0.16405252615030985-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,428-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-1/displayed {"id": "0.16405252615030985-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,470-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-1/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:10,470-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-1/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:10,470-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,470-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,471-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "name", "value": "admin_password", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,471-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "name", "value": "admin_password", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,503-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 103
+2019-02-27 14:38:10,503-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 103
+2019-02-27 14:38:10,503-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,503-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,504-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-1/clear {"id": "0.16405252615030985-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,504-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-1/clear {"id": "0.16405252615030985-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,540-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-1/clear HTTP/1.1" 200 72
+2019-02-27 14:38:10,540-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-1/clear HTTP/1.1" 200 72
+2019-02-27 14:38:10,541-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,541-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,541-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-1/value {"text": "123321", "value": ["1", "2", "3", "3", "2", "1"], "id": "0.16405252615030985-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,541-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-1/value {"text": "123321", "value": ["1", "2", "3", "3", "2", "1"], "id": "0.16405252615030985-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,670-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-1/value HTTP/1.1" 200 72
+2019-02-27 14:38:10,670-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-1/value HTTP/1.1" 200 72
+2019-02-27 14:38:10,671-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,671-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,671-root-INFO-send_key123321
+2019-02-27 14:38:10,671-root-INFO-send_key123321
+2019-02-27 14:38:10,672-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "css selector", "value": ".loginnofloat", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,672-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "css selector", "value": ".loginnofloat", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,705-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 105
+2019-02-27 14:38:10,705-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 105
+2019-02-27 14:38:10,706-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,706-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,706-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-2/displayed {"id": "0.16405252615030985-2", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,706-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-2/displayed {"id": "0.16405252615030985-2", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,736-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-2/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:10,736-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-2/displayed HTTP/1.1" 200 72
+2019-02-27 14:38:10,736-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,736-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,737-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "css selector", "value": ".loginnofloat", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,737-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element {"using": "css selector", "value": ".loginnofloat", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,768-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 103
+2019-02-27 14:38:10,768-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element HTTP/1.1" 200 103
+2019-02-27 14:38:10,769-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,769-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,769-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-2/click {"id": "0.16405252615030985-2", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,769-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-2/click {"id": "0.16405252615030985-2", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,860-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-2/click HTTP/1.1" 200 72
+2019-02-27 14:38:10,860-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.16405252615030985-2/click HTTP/1.1" 200 72
+2019-02-27 14:38:10,860-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,860-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:10,861-root-INFO-click
+2019-02-27 14:38:10,861-root-INFO-click
+2019-02-27 14:38:10,861-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "partial link text", "value": "\u8bba\u575b", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:10,861-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "partial link text", "value": "\u8bba\u575b", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:20,943-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 70
+2019-02-27 14:38:20,943-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 70
+2019-02-27 14:38:20,945-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:20,945-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:21,445-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000033E5E80> page not found element('partial link text', '论坛')元素
+2019-02-27 14:38:21,445-root-INFO-<pageobjects.plate_management.Manage object at 0x00000000033E5E80> page not found element('partial link text', '论坛')元素
+2019-02-27 14:38:21,446-root-INFO-not click
+2019-02-27 14:38:21,446-root-INFO-not click
+2019-02-27 14:38:21,446-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/window_handles {"sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:21,446-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/window_handles {"sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:21,459-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/window_handles HTTP/1.1" 200 157
+2019-02-27 14:38:21,459-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/window_handles HTTP/1.1" 200 157
+2019-02-27 14:38:21,460-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:21,460-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:21,462-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/window {"name": "CDwindow-5B3C7B232E1799A7D0BD3E8D52C41596", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:21,462-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/window {"name": "CDwindow-5B3C7B232E1799A7D0BD3E8D52C41596", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:21,482-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/window HTTP/1.1" 200 72
+2019-02-27 14:38:21,482-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/window HTTP/1.1" 200 72
+2019-02-27 14:38:21,483-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:21,483-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:21,484-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "tag name", "value": "iframe", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:21,484-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements {"using": "tag name", "value": "iframe", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:39,283-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 103
+2019-02-27 14:38:39,283-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/elements HTTP/1.1" 200 103
+2019-02-27 14:38:39,285-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:39,285-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:39,286-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.742142650908963-1/displayed {"id": "0.742142650908963-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:39,286-selenium.webdriver.remote.remote_connection-DEBUG-GET http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.742142650908963-1/displayed {"id": "0.742142650908963-1", "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:39,325-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.742142650908963-1/displayed HTTP/1.1" 200 333
+2019-02-27 14:38:39,325-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "GET /session/699ee2c30ac2848d1d7a9ab1e4a6068e/element/0.742142650908963-1/displayed HTTP/1.1" 200 333
+2019-02-27 14:38:39,328-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:39,328-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:39,328-root-INFO-<pageobjects.new_plate.New_plate object at 0x00000000033D4710> page not found element('tag name', 'iframe')元素
+2019-02-27 14:38:39,328-root-INFO-<pageobjects.new_plate.New_plate object at 0x00000000033D4710> page not found element('tag name', 'iframe')元素
+2019-02-27 14:38:39,329-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/frame {"id": null, "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:39,329-selenium.webdriver.remote.remote_connection-DEBUG-POST http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e/frame {"id": null, "sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:39,339-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/frame HTTP/1.1" 200 333
+2019-02-27 14:38:39,339-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "POST /session/699ee2c30ac2848d1d7a9ab1e4a6068e/frame HTTP/1.1" 200 333
+2019-02-27 14:38:39,340-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:39,340-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:39,341-selenium.webdriver.remote.remote_connection-DEBUG-DELETE http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e {"sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:39,341-selenium.webdriver.remote.remote_connection-DEBUG-DELETE http://127.0.0.1:22890/session/699ee2c30ac2848d1d7a9ab1e4a6068e {"sessionId": "699ee2c30ac2848d1d7a9ab1e4a6068e"}
+2019-02-27 14:38:39,515-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "DELETE /session/699ee2c30ac2848d1d7a9ab1e4a6068e HTTP/1.1" 200 72
+2019-02-27 14:38:39,515-urllib3.connectionpool-DEBUG-http://127.0.0.1:22890 "DELETE /session/699ee2c30ac2848d1d7a9ab1e4a6068e HTTP/1.1" 200 72
+2019-02-27 14:38:39,516-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 14:38:39,516-selenium.webdriver.remote.remote_connection-DEBUG-Finished Request
+2019-02-27 17:37:06,568-root-INFO-你选择了Chrome游览器.
+2019-02-27 17:37:06,568-root-INFO-你选择了Chrome游览器.
+2019-02-27 17:37:06,570-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-27 17:37:06,570-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-27 17:37:18,489-root-INFO-启动谷歌游览器
+2019-02-27 17:37:18,489-root-INFO-启动谷歌游览器
+2019-02-27 17:37:20,573-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 17:37:20,573-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 17:37:22,003-root-INFO-窗口最大化
+2019-02-27 17:37:22,003-root-INFO-窗口最大化
+2019-02-27 17:37:22,046-root-INFO-等待10秒
+2019-02-27 17:37:22,046-root-INFO-等待10秒
+2019-02-27 17:37:22,729-root-INFO-send_keyaaa
+2019-02-27 17:37:22,729-root-INFO-send_keyaaa
+2019-02-27 17:37:23,364-root-INFO-send_key123321
+2019-02-27 17:37:23,364-root-INFO-send_key123321
+2019-02-27 17:37:23,906-root-INFO-click
+2019-02-27 17:37:23,906-root-INFO-click
+2019-02-27 17:37:27,680-root-INFO-click
+2019-02-27 17:37:27,680-root-INFO-click
+2019-02-27 17:37:28,927-root-INFO-click
+2019-02-27 17:37:28,927-root-INFO-click
+2019-02-27 17:37:29,381-root-INFO-send_key应该去吗？
+2019-02-27 17:37:29,381-root-INFO-send_key应该去吗？
+2019-02-27 17:37:39,995-root-INFO-<pageobjects.toupiao.Tou object at 0x0000000003367F60> page not found element('partial link text', '//div/p[1]')元素
+2019-02-27 17:37:39,995-root-INFO-<pageobjects.toupiao.Tou object at 0x0000000003367F60> page not found element('partial link text', '//div/p[1]')元素
+2019-02-27 17:37:39,996-root-INFO-not send_keys
+2019-02-27 17:37:39,996-root-INFO-not send_keys
+2019-02-27 17:37:51,340-root-INFO-<pageobjects.toupiao.Tou object at 0x0000000003367F60> page not found element('partial link text', '//div/p[2]')元素
+2019-02-27 17:37:51,340-root-INFO-<pageobjects.toupiao.Tou object at 0x0000000003367F60> page not found element('partial link text', '//div/p[2]')元素
+2019-02-27 17:37:51,342-root-INFO-not send_keys
+2019-02-27 17:37:51,342-root-INFO-not send_keys
+2019-02-27 17:38:02,172-root-INFO-<pageobjects.toupiao.Tou object at 0x0000000003367F60> page not found element('partial link text', '//div/p[3]')元素
+2019-02-27 17:38:02,172-root-INFO-<pageobjects.toupiao.Tou object at 0x0000000003367F60> page not found element('partial link text', '//div/p[3]')元素
+2019-02-27 17:38:02,173-root-INFO-not send_keys
+2019-02-27 17:38:02,173-root-INFO-not send_keys

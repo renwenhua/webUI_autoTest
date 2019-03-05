@@ -1,0 +1,72 @@
+2019-02-28 17:45:35,495-root-INFO-你选择了Chrome游览器.
+2019-02-28 17:45:35,495-root-INFO-你选择了Chrome游览器.
+2019-02-28 17:45:35,496-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 17:45:35,496-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 17:45:41,923-root-INFO-启动谷歌游览器
+2019-02-28 17:45:41,923-root-INFO-启动谷歌游览器
+2019-02-28 17:45:44,013-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 17:45:44,013-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 17:45:45,293-root-INFO-窗口最大化
+2019-02-28 17:45:45,293-root-INFO-窗口最大化
+2019-02-28 17:45:45,303-root-INFO-等待10秒
+2019-02-28 17:45:45,303-root-INFO-等待10秒
+2019-02-28 17:45:46,223-root-INFO-send_keyadmin
+2019-02-28 17:45:46,223-root-INFO-send_keyadmin
+2019-02-28 17:45:46,889-root-INFO-send_key123321
+2019-02-28 17:45:46,889-root-INFO-send_key123321
+2019-02-28 17:45:47,338-root-INFO-click
+2019-02-28 17:45:47,338-root-INFO-click
+2019-02-28 17:45:50,696-root-INFO-click
+2019-02-28 17:45:50,696-root-INFO-click
+2019-02-28 17:45:51,230-root-INFO-send_key标题
+2019-02-28 17:45:51,230-root-INFO-send_key标题
+2019-02-28 17:45:52,467-root-INFO-send_keyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2019-02-28 17:45:52,467-root-INFO-send_keyaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2019-02-28 17:45:55,533-root-INFO-click
+2019-02-28 17:45:55,533-root-INFO-click
+2019-02-28 17:45:56,240-root-INFO-get_windows_img
+2019-02-28 17:45:56,240-root-INFO-get_windows_img
+2019-02-28 17:45:56,709-root-INFO-click
+2019-02-28 17:45:56,709-root-INFO-click
+2019-02-28 17:45:58,214-root-INFO-send_keycdrhgkt3uygu5bgefrl
+2019-02-28 17:45:58,214-root-INFO-send_keycdrhgkt3uygu5bgefrl
+2019-02-28 17:45:59,653-root-INFO-click
+2019-02-28 17:45:59,653-root-INFO-click
+2019-02-28 19:45:09,249-root-INFO-你选择了Chrome游览器.
+2019-02-28 19:45:09,249-root-INFO-你选择了Chrome游览器.
+2019-02-28 19:45:09,250-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 19:45:09,250-root-INFO-测试URL是:http://127.0.0.1/forum.php
+2019-02-28 19:45:15,828-root-INFO-启动谷歌游览器
+2019-02-28 19:45:15,828-root-INFO-启动谷歌游览器
+2019-02-28 19:45:18,119-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 19:45:18,119-root-INFO-打开：http://127.0.0.1/forum.php
+2019-02-28 19:45:19,468-root-INFO-窗口最大化
+2019-02-28 19:45:19,468-root-INFO-窗口最大化
+2019-02-28 19:45:19,480-root-INFO-等待10秒
+2019-02-28 19:45:19,480-root-INFO-等待10秒
+2019-02-28 19:45:20,180-root-INFO-send_keyadmin
+2019-02-28 19:45:20,180-root-INFO-send_keyadmin
+2019-02-28 19:45:20,960-root-INFO-send_key123321
+2019-02-28 19:45:20,960-root-INFO-send_key123321
+2019-02-28 19:45:21,583-root-INFO-click
+2019-02-28 19:45:21,583-root-INFO-click
+2019-02-28 19:45:26,189-root-INFO-click
+2019-02-28 19:45:26,189-root-INFO-click
+2019-02-28 19:45:26,530-root-INFO-click
+2019-02-28 19:45:26,530-root-INFO-click
+2019-02-28 19:45:27,368-root-INFO-click
+2019-02-28 19:45:27,368-root-INFO-click
+2019-02-28 19:45:28,588-root-INFO-click
+2019-02-28 19:45:28,588-root-INFO-click
+2019-02-28 19:45:29,243-root-INFO-click
+2019-02-28 19:45:29,243-root-INFO-click
+2019-02-28 19:45:40,983-root-ERROR-<pageobjects.plate_management.Manage object at 0x00000000033F6CC0> page not found element('name', 'admin_password')元素
+2019-02-28 19:45:40,983-root-ERROR-<pageobjects.plate_management.Manage object at 0x00000000033F6CC0> page not found element('name', 'admin_password')元素
+2019-02-28 19:45:40,984-root-ERROR-not send_keys
+2019-02-28 19:45:40,984-root-ERROR-not send_keys
+2019-02-28 19:45:51,511-root-ERROR-<pageobjects.plate_management.Manage object at 0x00000000033F6CC0> page not found element('css selector', '.loginnofloat .btn')元素
+2019-02-28 19:45:51,511-root-ERROR-<pageobjects.plate_management.Manage object at 0x00000000033F6CC0> page not found element('css selector', '.loginnofloat .btn')元素
+2019-02-28 19:45:51,512-root-ERROR-not click
+2019-02-28 19:45:51,512-root-ERROR-not click
+2019-02-28 19:45:53,020-root-INFO-click
+2019-02-28 19:45:53,020-root-INFO-click
